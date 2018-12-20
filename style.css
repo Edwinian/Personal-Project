@@ -68,3 +68,9 @@ body {
   background-image: url("Dragon.png");
   color: white;
 }
+
+.topnav.responsive a {
+   float: none;
+   display: block;
+   text-align: left;
+ }
